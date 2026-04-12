@@ -127,7 +127,7 @@ Column definitions:
 
 | Year | Method | Reference | Venue | Paper | Repo |
 |:----:|--------|-----------|-------|:-----:|:----:|
-| 2018 | R-MSN | Lim | NeurIPS | [Link](https://arxiv.org/abs/1802.00857) | [Code](https://github.com/sjblim/rmsn_nips_2018) |
+| 2018 | R-MSN | Lim et al. | NeurIPS | [Link](https://arxiv.org/abs/1802.00857) | [Code](https://github.com/sjblim/rmsn_nips_2018) |
 | 2020 | G-Net | Li et al. | ML4H | [Link](https://arxiv.org/abs/2003.10551) | |
 | 2020 | CRN | Bica et al. | ICLR | [Link](https://arxiv.org/abs/2002.04083) | [Code](https://github.com/ioanabica/Counterfactual-Recurrent-Network) |
 | 2020 | DSW | Liu et al. | ICDM | [Link](https://arxiv.org/abs/2008.13620) | [Code](https://github.com/AIMedLab/DSW) |
