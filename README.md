@@ -12,21 +12,21 @@
 
 ## Abstract
 
-The proliferation of healthcare time series data presents a transformative opportunity for personalized healthcare. However, utilizing these observational data for clinical decision support requires moving beyond risk prediction to causal inference. In particular, estimating time-varying individual treatment effects is crucial for answering ``what-if'' questions in dynamic settings, where patient states and treatment efficacy evolve continuously over time. Traditional statistical and machine learning methods face well-documented difficulties in capturing the long-range temporal dependencies, high dimensionality, and non-linear treatment-response dynamics characteristic of such data. Deep learning has emerged as a powerful paradigm for addressing these challenges, motivating a rapidly growing body of work on time-varying causal inference from healthcare time series data. This review aims to provide a systematic overview of deep learning for time-varying ITE estimation in healthcare, connecting theoretical foundations with methodological practice. We first establish the theoretical foundations, then present a taxonomy of deep learning methodologies, followed by an analysis of current clinical applications and model evaluation practices. Finally, we discuss key unresolved challenges and outline a roadmap for future research on time-varying ITE estimation.
+The proliferation of healthcare time series data presents a transformative opportunity for personalized healthcare. However, utilizing these observational data for clinical decision support requires moving beyond risk prediction to causal inference. In particular, estimating time-varying individual treatment effects is crucial for answering "what-if" questions in dynamic settings, where patient states and treatment efficacy evolve continuously over time. Traditional statistical and machine learning methods face well-documented difficulties in capturing the long-range temporal dependencies, high dimensionality, and non-linear treatment-response dynamics characteristic of such data. Deep learning has emerged as a powerful paradigm for addressing these challenges, motivating a rapidly growing body of work on time-varying causal inference from healthcare time series data. This review aims to provide a systematic overview of deep learning for time-varying ITE estimation in healthcare, connecting theoretical foundations with methodological practice. We first establish the theoretical foundations, then present a taxonomy of deep learning methodologies, followed by an analysis of current clinical applications and model evaluation practices. Finally, we discuss key unresolved challenges and outline a roadmap for future research on time-varying ITE estimation.
 
 ---
 
 ## Citation
 
-If you find this review useful, please cite:
+If you find this review useful, please use the following to cite our work:
 
 ```bibtex
 @article{cai2026review,
   title     = {A Review of Deep Learning for Individualized Treatment Effect Estimation in Healthcare Time Series},
   author    = {Cai, Zi and Liu, Yu and Zhu, Tingting},
-  journal   = {ACM Computing Surveys},
+  journal   = {},
   year      = {2026},
-  doi       = {@...}
+  doi       = {}
 }
 ```
 
