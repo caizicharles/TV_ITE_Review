@@ -36,6 +36,8 @@ If you find this review useful, please use the following to cite our work:
 
 <details>
 <summary><b>1. Introduction</b></summary>
+
+- Search Strategy
 </details>
 
 <details>
