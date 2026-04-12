@@ -6,7 +6,7 @@
 
 **Authors:** Zi Cai, Yu Liu, and Tingting Zhu
 
-**Affiliation:** Department of Engineering Science, University of Oxford
+**Affiliation:** [Laboratory of AI for Digital Healthcare](https://eng.ox.ac.uk/ai4dh), Institute of Biomedical Engineering, Department of Engineering Science, University of Oxford
 
 ---
 
