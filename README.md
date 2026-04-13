@@ -127,21 +127,21 @@ Column definitions:
 
 | Year | Method | Reference | Venue | Paper | Repo |
 |:----:|--------|-----------|-------|:-----:|:----:|
-| 2018 | R-MSN | Lim et al. | NeurIPS | [Link](https://arxiv.org/abs/1802.00857) | [Code](https://github.com/sjblim/rmsn_nips_2018) |
-| 2020 | G-Net | Li et al. | ML4H | [Link](https://arxiv.org/abs/2003.10551) | |
+| 2018 | R-MSN | Lim | NeurIPS | [Link](https://proceedings.neurips.cc/paper/2018/hash/56e6a93212e4482d99c84a639d254b67-Abstract.html) | [Code](https://github.com/sjblim/rmsn_nips_2018) |
+| 2020 | G-Net | Li et al. | ML4H | [Link](https://proceedings.mlr.press/v158/li21a) | |
 | 2020 | CRN | Bica et al. | ICLR | [Link](https://arxiv.org/abs/2002.04083) | [Code](https://github.com/ioanabica/Counterfactual-Recurrent-Network) |
-| 2020 | DSW | Liu et al. | ICDM | [Link](https://arxiv.org/abs/2008.13620) | [Code](https://github.com/AIMedLab/DSW) |
+| 2020 | DSW | Liu et al. | ICDM | [Link](https://arxiv.org/abs/2008.13620) | [Code](https://github.com/ruoqi-liu/DSW) |
 | 2021 | SyncTwin | Qian et al. | NeurIPS | [Link](https://proceedings.neurips.cc/paper/2021/hash/19485224d128528da1602ca47383f078-Abstract.html) | [Code](https://github.com/ZhaozhiQIAN/SyncTwin-NeurIPS-2021) |
 | 2021 | DCRN | Berrevoets et al. | arXiv | [Link](https://arxiv.org/abs/2112.03811) | |
 | 2022 | CF-ODE | De Brouwer et al. | AISTATS | [Link](https://arxiv.org/abs/2202.11987) | [Code](https://github.com/microsoft/cf-ode) |
 | 2022 | CT | Melnychuk et al. | ICML | [Link](https://arxiv.org/abs/2204.07258) | [Code](https://github.com/Valentyn1997/CausalTransformer) |
 | 2022 | TE-CDE | Seedat et al. | ICML | [Link](https://arxiv.org/abs/2206.08311) | [Code](https://github.com/seedatnabeel/TE-CDE) |
 | 2022 | TCFimt | Xi et al. | arXiv | [Link](https://arxiv.org/abs/2212.08890) | |
-| 2022 | DR-CRN | Chu et al. | CMPB | [Link](https://doi.org/10.1016/j.cmpb.2022.107175) | |
+| 2022 | DR-CRN | Chu et al. | CMPB | [Link](https://doi.org/10.1016/j.cmpb.2022.107175) | [Code](https://github.com/ZJU-BMI/DR-CRN) |
 | 2023 | LipCDE | Cao et al. | AAAI | [Link](https://arxiv.org/abs/2303.02320) | |
 | 2023 | LipSCDE | Cao et al. | arXiv | [Link](https://arxiv.org/abs/2302.09446) | |
 | 2023 | SCouT | Dedhia et al. | ACM HEALTH | [Link](https://arxiv.org/abs/2207.04208) | [Code](https://github.com/JHA-Lab/scout) |
-| 2023 | CF-GODE | Jiang et al. | KDD | [Link](https://arxiv.org/abs/2306.11216) | [Code](https://github.com/songjiang0909/CF-GODE) |
+| 2023 | CF-GODE | Jiang et al. | KDD | [Link](https://arxiv.org/abs/2306.11216) | |
 | 2023 | RCAB | Zhu et al. | IJCIS | [Link](https://doi.org/10.1007/s44196-023-00228-3) | |
 | 2024 | T4 | Liu et al. | Nature MI | [Link](https://www.nature.com/articles/s42256-023-00638-0) | [Code](https://github.com/ruoqi-liu/T4) |
 | 2024 | Su et al. | Su et al. | AMIA | [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11141800/) | |
@@ -149,16 +149,16 @@ Column definitions:
 | 2024 | G-Transformer | Hess et al. | arXiv | [Link](https://arxiv.org/abs/2405.21012) | [Code](https://github.com/konstantinhess/G_transformer) |
 | 2024 | CURE | Liu et al. | Patterns | [Link](https://www.cell.com/patterns/fulltext/S2666-3899(24)00081-3) | [Code](https://github.com/ruoqi-liu/CURE) |
 | 2024 | Wu et al. | Wu et al. | KDD | [Link](https://arxiv.org/abs/2305.15742) | [Code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models) |
-| 2024 | CAG-ODE | Huang et al. | WWW | [Link](https://arxiv.org/abs/2403.00178) | |
-| 2024 | ACTIN | Wang et al. | ICML | [Link](https://openreview.net/forum?id=126SR50BEL) | [Code](https://github.com/CausalLearning/ACTIN) |
+| 2024 | CAG-ODE | Huang et al. | WWW | [Link](https://arxiv.org/abs/2403.00178) | [Code](https://github.com/Jun-Kai-Zhang/CAG-ODE) |
+| 2024 | ACTIN | Wang et al. | ICML | [Link](https://openreview.net/forum?id=126SR50BEL) | [Code](https://github.com/waxin/ACTIN) |
 | 2024 | Causal CPC | El Bouchattaoui et al. | NeurIPS | [Link](https://arxiv.org/abs/2406.00535) | |
 | 2024 | OptAB | Wendland et al. | npj Digital Medicine | [Link](https://www.nature.com/articles/s41746-024-01350-y) | [Code](https://github.com/philippwendland/OptAB) |
 | 2025 | SCIP-Net | Hess and Feuerriegel | ICLR | [Link](https://arxiv.org/abs/2410.03514) | [Code](https://github.com/konstantinhess/SCIP-Net) |
-| 2025 | VTDNet | Dai et al. | JBI | [Link](https://doi.org/10.1016/j.jbi.2025.104880) | |
+| 2025 | VTDNet | Dai et al. | JBI | [Link](https://doi.org/10.1016/j.jbi.2025.104880) | [Code](https://github.com/Throwfox/VTDNet) |
 | 2025 | IVW-DR-learner | Frauen et al. | ICLR | [Link](https://arxiv.org/abs/2407.05287) | [Code](https://github.com/DennisFrauen/CATEMetaLearnersTime) |
 | 2025 | CEET | Zhang et al. | ISCAIT | [Link](https://ieeexplore.ieee.org/document/11010767/) | |
 | 2025 | Liu et al. | Liu et al. | Preprint | [Link](https://arxiv.org/abs/2511.16006) | |
 | 2025 | EDTS | Norimatsu and Imaizumi | CLeaR | [Link](https://proceedings.mlr.press/v275/norimatsu25a.html) | [Code](https://github.com/ynorimat/EDTS) |
 | 2025 | Mamba-CDSP | Wang et al. | ICLR | [Link](https://openreview.net/forum?id=yheQRc5xWB) | |
 | 2025 | Guski et al. | Guski et al. | Scientific Reports | [Link](https://www.nature.com/articles/s41598-025-88433-2) | [Code](https://github.com/SCAI-BIO/causal-npi-effects) |
-| 2025 | TV-SurvCaus | Abraich | arXiv | [Link](https://arxiv.org/abs/2505.01785) | [Code](https://github.com/abraich/pycaus) |
+| 2025 | TV-SurvCaus | Abraich | arXiv | [Link](https://arxiv.org/abs/2505.01785) | |
