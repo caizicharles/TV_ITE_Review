@@ -22,10 +22,10 @@ If you find this review useful, please use the following to cite our work:
 
 ```bibtex
 @article{cai2026review,
-  title     = {A Review of Deep Learning for Individualized Treatment Effect Estimation in Healthcare Time Series},
-  author    = {Cai, Zi and Liu, Yu and Zhu, Tingting},
-  publisher   = {Preprints}
-  year      = {2026},
+  title={A Review of Deep Learning for Individualized Treatment Effect Estimation in Healthcare Time Series},
+  author={Cai, Zi and Liu, Yu and Zhu, Tingting},
+  year={2026},
+  publisher={Preprints}
 }
 ```
 
