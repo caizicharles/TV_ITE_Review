@@ -137,6 +137,7 @@ Column definitions:
 | 2022 | TE-CDE | Seedat et al. | ICML | [Link](https://arxiv.org/abs/2206.08311) | [Code](https://github.com/seedatnabeel/TE-CDE) |
 | 2022 | TCFimt | Xi et al. | arXiv | [Link](https://arxiv.org/abs/2212.08890) | |
 | 2022 | DR-CRN | Chu et al. | CMPB | [Link](https://doi.org/10.1016/j.cmpb.2022.107175) | [Code](https://github.com/ZJU-BMI/DR-CRN) |
+| 2022 | DRTCI | Gupta et al. | arXiv | [Link](https://arxiv.org/abs/2201.08137) | |
 | 2023 | LipCDE | Cao et al. | AAAI | [Link](https://arxiv.org/abs/2303.02320) | |
 | 2023 | LipSCDE | Cao et al. | arXiv | [Link](https://arxiv.org/abs/2302.09446) | |
 | 2023 | SCouT | Dedhia et al. | ACM HEALTH | [Link](https://arxiv.org/abs/2207.04208) | [Code](https://github.com/JHA-Lab/scout) |
@@ -161,3 +162,10 @@ Column definitions:
 | 2025 | Mamba-CDSP | Wang et al. | ICLR | [Link](https://openreview.net/forum?id=yheQRc5xWB) | |
 | 2025 | Guski et al. | Guski et al. | Scientific Reports | [Link](https://www.nature.com/articles/s41598-025-88433-2) | [Code](https://github.com/SCAI-BIO/causal-npi-effects) |
 | 2025 | TV-SurvCaus | Abraich | arXiv | [Link](https://arxiv.org/abs/2505.01785) | |
+| 2025 | CDVAE | El Bouchattaoui et al. | TMLR | [Link](https://openreview.net/forum?id=atf9q49DeF) | [Code](https://github.com/moad-lihoconf/cdvae) |
+| 2025 | Tran et al. | Tran et al. | American Journal of Hypertension | [Link](https://doi.org/10.1093/ajh/hpaf055) | |
+| 2025 | Kang et al. | Kang et al. | Scientific Reports | [Link](https://www.nature.com/articles/s41598-025-20555-z) | |
+| 2025 | DoseAI | Wendland and Kschischo | AIME | [Link](https://doi.org/10.1007/978-3-031-95841-0_79) | [Code](https://github.com/philippwendland/DoseAI) |
+| 2025 | CMSPA-Former | Zhang et al. | IJCNN | [Link](https://doi.org/10.1109/IJCNN64981.2025.11227253) | |
+| 2025 | LLMCE | Qiang | CIKM | [Link](https://doi.org/10.1145/3746252.3760914) | |
+| 2025 | CTD-NKO | Wang et al. | IJCAI | [Link](https://www.ijcai.org/proceedings/2025/717) | [Code](https://github.com/wangxin0126/CTD-NKO_IJCAI) |
