@@ -1,8 +1,8 @@
 # A Review of Deep Learning for Individualized Treatment Effect Estimation in Healthcare Time Series
 
 ![Submitted to ACM Computing Surveys](https://img.shields.io/badge/Submitted_to-ACM_Computing_Surveys-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_2026-brightgreen)
-![Papers](https://img.shields.io/badge/Papers-35-red)
+![Last Updated](https://img.shields.io/badge/Last_Updated-September_2026-brightgreen)
+![Papers](https://img.shields.io/badge/Papers-43-red)
 
 **Authors:** Zi Cai, Yu Liu, and Tingting Zhu
 
